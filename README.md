@@ -8,3 +8,5 @@ It adds a good old stop button to Firefox.
 Nothing more, nothing less.
 Just a stop button.
 One that never changes...
+
+Icons made by Freepik from www.flaticon.com.
