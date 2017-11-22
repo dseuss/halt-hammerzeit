@@ -2,7 +2,7 @@
 
     "description": "Adds a dedicated stop button to Firefox. Icons made by Freepik from www.flaticon.com",
     "manifest_version": 2,
-    "name": "dedicated-stop-button",
+    "name": "halt-hammerzeit",
     "version": "0.1",
 
     "background": {
